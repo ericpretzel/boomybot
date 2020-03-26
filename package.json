@@ -1,0 +1,22 @@
+{
+  "name": "boomybot",
+  "version": "1.0.0",
+  "description": "BombParty Discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericpretzel/boomybot.git"
+  },
+  "author": "pretzoot#4683",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericpretzel/boomybot/issues"
+  },
+  "homepage": "https://github.com/ericpretzel/boomybot#readme",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  }
+}
